@@ -1,0 +1,8 @@
+gradio
+bittensor
+matplotlib
+pandas
+datasets
+tqdm
+redis
+python-dotenv
